@@ -1,3 +1,7 @@
+[简体中文](README.md) | [繁體中文](README-zh-TW.md) | [English](README-en.md) | [Русский](README-ru.md) | [Español](README-es.md) | [Português](README-pt.md) | [日本語](README-ja.md) | [한국어](README-ko.md)
+
+---
+
 黄泡泡短剧 (HppDuanju) - 年轻人的上头剧场 🍿
 
 欢迎来到 黄泡泡短剧 官方 GitHub 引导仓库！泡泡一戳，好戏开场。
