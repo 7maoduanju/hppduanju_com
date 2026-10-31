@@ -8,7 +8,7 @@ HppDuanju (HuangPaoPao Short Drama) - Addictive Theater for the Youth 🍿
 
 Welcome to the official GitHub directory for HppDuanju! Pop the bubble, and let the show begin.
 
-🌐 Official Website:
+🌐 Official Website:https://hppduanju.com/
 
 📖 About Us
 
@@ -56,7 +56,7 @@ The creators will start topic discussions about plot directions in the community
 
 To prevent access issues due to network fluctuations, please bookmark the following links:
 
-Official Website:
+Official Website:https://hppduanju.com/
 
 Android APP Download: Visit the official site and click "Download APP" or scan the QR code on the homepage to get the latest APK.
 
