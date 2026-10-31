@@ -8,7 +8,7 @@ HppDuanju (Miniseries HuangPaoPao) - El teatro adictivo para los jóvenes 🍿
 
 ¡Bienvenido al repositorio oficial de GitHub de HppDuanju! Revienta la burbuja y que comience el espectáculo.
 
-🌐 Sitio Web Oficial:
+🌐 Sitio Web Oficial:https://hppduanju.com/
 
 📖 Sobre Nosotros
 
@@ -30,6 +30,6 @@ Nuestra plataforma se centra en la experiencia de "miniseries gratis en línea, 
 
 Guarda estos enlaces para evitar problemas de acceso:
 
-Sitio Web Oficial:
+Sitio Web Oficial:https://hppduanju.com/
 
 Descarga de APP para Android: Visita el sitio web y haz clic en "Descargar APP" o escanea el código QR en la página principal.
