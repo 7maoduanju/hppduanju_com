@@ -6,7 +6,7 @@ HppDuanju (Minisséries HuangPaoPao) - O teatro viciante para os jovens 🍿
 
 Bem-vindo ao repositório oficial do GitHub do HppDuanju! Estoure a bolha e que comece o show.
 
-🌐 Site Oficial:
+🌐 Site Oficial:https://hppduanju.com/
 
 📖 Sobre Nós
 
@@ -28,6 +28,6 @@ Nossa plataforma foca na experiência perfeita de "minisséries online grátis, 
 
 Favor favoritar estes links:
 
-Site Oficial:
+Site Oficial:https://hppduanju.com/
 
 Download do APP Android: Visite o site oficial para baixar o APK ou escaneie o QR Code.
